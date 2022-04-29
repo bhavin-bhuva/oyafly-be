@@ -68,7 +68,8 @@
 - Use the following command to compile the project
   - **npm run compile**
 - To debug/run the project use the following command. This command will compile and run the project locally.
-  - **npm run debug**
+  - **npm run compile-watch** (to start compile watch)
+  - **npm run start-watch** (to start server watch)
 - Use following command to formate all the files of the project
   - **npm run prettier-format**
 - Use following command to see all the ESLint issues
